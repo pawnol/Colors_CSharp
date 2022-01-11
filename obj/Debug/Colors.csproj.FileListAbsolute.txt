@@ -1,0 +1,10 @@
+C:\Users\Nolan Pawelski\Desktop\Colors\bin\Debug\Colors.exe.config
+C:\Users\Nolan Pawelski\Desktop\Colors\bin\Debug\Colors.exe
+C:\Users\Nolan Pawelski\Desktop\Colors\bin\Debug\Colors.pdb
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.ColorsForm.resources
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.exe
+C:\Users\Nolan Pawelski\Desktop\Colors\obj\Debug\Colors.pdb
